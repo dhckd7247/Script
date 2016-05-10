@@ -11,7 +11,7 @@ image = None
 
 def enter():
     global image
-    image = load_image('background.jpg')
+    image = load_image('resource/background.jpg')
 
 def exit():
     global image
