@@ -101,7 +101,7 @@
       <x>40</x>
       <y>640</y>
       <width>56</width>
-      <height>12</height>
+      <height>21</height>
      </rect>
     </property>
     <property name="text">
@@ -111,8 +111,8 @@
    <widget class="QLabel" name="label_5">
     <property name="geometry">
      <rect>
-      <x>150</x>
-      <y>640</y>
+      <x>160</x>
+      <y>660</y>
       <width>56</width>
       <height>12</height>
      </rect>
@@ -177,9 +177,9 @@
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>590</y>
-      <width>56</width>
-      <height>12</height>
+      <y>580</y>
+      <width>61</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="text">
